@@ -2,10 +2,7 @@
 #define GRAPH_H
 
 /*
- * CS 261 Data Structures
- * Assignment 7
- * Author: Sean Moore
- * Date: 5/18/2016
+ * 
  */
 
 typedef struct Vertex Vertex;
